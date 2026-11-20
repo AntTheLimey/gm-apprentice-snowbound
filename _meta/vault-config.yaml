@@ -1,0 +1,61 @@
+version: 1
+vault:
+  campaign: Snowbound
+  system: dnd-5e-2024
+  attachments: _attachments
+  images:
+    source: codex
+    auto: true
+player_site:
+  publish: false
+  title: Snowbound
+  theme:
+    tagline: A D&D escort job up a mountain pass, to a monastery that is very glad to see you.
+    palette:
+      primary: "#1f2a36"
+      accent: "#a35f12"
+      background: "#eef1f4"
+    fonts:
+      heading: Literata
+      body: Source Sans 3
+      source: self-host
+  not_found: This page has been lost to the snow.
+  folder: ""
+  folder_map:
+    Characters/PCs: characters/pcs
+    Characters/NPCs: characters/npcs
+    Locations: locations
+    Factions & Organizations: factions
+    Items & Artifacts: items
+    Creatures: creatures
+    Heritages: heritages
+    Events: events
+    Documents: documents
+    Clues: clues
+    Chapters: chapters
+    _Campaign: campaign
+    _World: world
+  hide:
+    folders:
+      - _meta
+      - _Templates
+    sections:
+      - GM Notes
+      - DM Notes
+      - Player Notes
+      - Source References
+      - Reconciliation Context
+      - Handoff to Reconcile
+      - Dormant Threads
+    fields:
+      - secrets
+      - current_plan
+      - plan_progress
+      - gm_notes
+      - prep_notes
+      - reliability
+      - voice
+    callouts: true
+  host: cloudflare-pages
+  cloudflare_project: ""
+  url: ""

@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "before_tracking": true,
+      "date": "2026-11-17",
+      "note": "Everything published by this date counts as revealed."
+    },
+    {
+      "session": "Session 01 - The Climb",
+      "date": "2026-11-17",
+      "published": [
+        "Characters/NPCs/Brother Matthias.md",
+        "Characters/PCs/Brannoc Hale_Story.md",
+        "Characters/PCs/Ilyra Vessant_Story.md",
+        "Characters/PCs/Kael Stonehand_Story.md",
+        "Characters/PCs/Nim Underbough_Story.md",
+        "Events/The Disappearance of Tam Rowe.md",
+        "Items & Artifacts/Silver Votive Lamp.md"
+      ],
+      "released": [
+        {
+          "page": "Characters/NPCs/Master Orrin Gilt.md",
+          "what": "what is in his chest: mail, a longsword and the white lamp surcoat"
+        }
+      ]
+    },
+    {
+      "session": "Session 02 - The Office for Brother Matthias",
+      "date": "2026-11-18",
+      "published": [
+        "Creatures/The Dragon Under the Glacier.md",
+        "Events/The Unmasking of Lucan.md",
+        "Items & Artifacts/Hat of Disguise.md",
+        "Items & Artifacts/Pewter Lamp Badge.md"
+      ],
+      "released": [
+        {
+          "page": "Characters/NPCs/Master Orrin Gilt.md",
+          "what": "He is Lucan, the abbot's old pupil; the merchant was an illusion from the Hat of Disguise"
+        }
+      ]
+    },
+    {
+      "session": "Session 03 - Peace, Child",
+      "date": "2026-11-18",
+      "published": [
+        "Characters/PCs/Grenna Fallowmere_Story.md",
+        "Characters/PCs/Oswin_Story.md",
+        "Events/The Death of Abbot Severin.md",
+        "Items & Artifacts/Tam's Boot.md",
+        "Items & Artifacts/The Abbot's Ring.md",
+        "Items & Artifacts/The Ice Shards.md",
+        "Locations/The Ice Cave.md"
+      ],
+      "released": [
+        {
+          "page": "Characters/NPCs/Abbot Severin.md",
+          "what": "the abbot chose who went down"
+        },
+        {
+          "page": "Characters/NPCs/Brother Hollis.md",
+          "what": "the register's lamps are Hollis's list of who goes down next"
+        },
+        {
+          "page": "Characters/NPCs/Brother Teodor.md",
+          "what": "Teodor carried the dead and the drugged guests down, Tam among them"
+        },
+        {
+          "page": "Characters/NPCs/Sister Wren.md",
+          "what": "Wren's reliquary of healing ice shards"
+        },
+        {
+          "page": "Characters/NPCs/Tam Rowe.md",
+          "what": "Tam is dead in the ice cave"
+        },
+        {
+          "page": "Creatures/The Dragon Under the Glacier.md",
+          "what": "the dragon says it was the first guest, the sickness is its breath, and named its price"
+        },
+        {
+          "page": "Factions & Organizations/The Order of Saint Aubren.md",
+          "what": "the bargain with the dragon"
+        },
+        {
+          "page": "Locations/The Ice Crypt.md",
+          "what": "inside the crypt: empty niches, the chute"
+        }
+      ]
+    },
+    {
+      "session": "Session 04 - Long Night Early",
+      "date": "2026-11-18",
+      "published": [
+        "Chapters/Chapter 1/Props/Hesta's Letter.md",
+        "Characters/NPCs/Hesta Rowe.md",
+        "Events/The Death of the Guest.md",
+        "Items & Artifacts/Boots of the Winterlands.md",
+        "Items & Artifacts/Cloak of Protection.md",
+        "Items & Artifacts/Frost Brand.md",
+        "Locations/The Chapel.md",
+        "Locations/The Dragon's Cavern.md"
+      ],
+      "released": []
+    }
+  ]
+}

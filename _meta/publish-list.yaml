@@ -1,0 +1,161 @@
+publishing:
+  - Chapters/Chapter 1/Chapter 1.md
+  - Chapters/Chapter 1/Props/Hesta's Letter.md
+  - Chapters/Chapter 1/Sessions/Session 01/Chapter_01_Session_01_Wrap_Up.md
+  - Chapters/Chapter 1/Sessions/Session 01/Session 01 - The Climb.md
+  - Chapters/Chapter 1/Sessions/Session 02/Chapter_01_Session_02_Wrap_Up.md
+  - Chapters/Chapter 1/Sessions/Session 02/Session 02 - The Office for Brother Matthias.md
+  - Chapters/Chapter 1/Sessions/Session 03/Chapter_01_Session_03_Wrap_Up.md
+  - Chapters/Chapter 1/Sessions/Session 03/Session 03 - Peace, Child.md
+  - Chapters/Chapter 1/Sessions/Session 04/Chapter_01_Session_04_Wrap_Up.md
+  - Chapters/Chapter 1/Sessions/Session 04/Session 04 - Long Night Early.md
+  - Characters/NPCs/Abbot Severin.md
+  - Characters/NPCs/Aldous Crane.md
+  - Characters/NPCs/Brother Ansel.md
+  - Characters/NPCs/Brother Hollis.md
+  - Characters/NPCs/Brother Matthias.md
+  - Characters/NPCs/Brother Teodor.md
+  - Characters/NPCs/Durgan Flintmere.md
+  - Characters/NPCs/Hesta Rowe.md
+  - Characters/NPCs/Marda Vell.md
+  - Characters/NPCs/Master Orrin Gilt.md
+  - Characters/NPCs/Pip Callow.md
+  - Characters/NPCs/Rosie Tallowby.md
+  - Characters/NPCs/Sister Wren.md
+  - Characters/NPCs/Tam Rowe.md
+  - Characters/PCs/Brannoc Hale.md
+  - Characters/PCs/Brannoc Hale_Story.md
+  - Characters/PCs/Grenna Fallowmere.md
+  - Characters/PCs/Grenna Fallowmere_Story.md
+  - Characters/PCs/Ilyra Vessant.md
+  - Characters/PCs/Ilyra Vessant_Story.md
+  - Characters/PCs/Kael Stonehand.md
+  - Characters/PCs/Kael Stonehand_Story.md
+  - Characters/PCs/Nim Underbough.md
+  - Characters/PCs/Nim Underbough_Story.md
+  - Characters/PCs/Oswin.md
+  - Characters/PCs/Oswin_Story.md
+  - Creatures/Ice Mephit.md
+  - Creatures/The Dragon Under the Glacier.md
+  - Creatures/The Lantern at the Pass.md
+  - Documents/Battle Map of the Wayside Shrine.md
+  - Documents/Map of Saint Aubren's Rest.md
+  - Documents/Map of the Guest Wing.md
+  - Documents/Map of the Pass.md
+  - Events/The Death of Abbot Severin.md
+  - Events/The Death of the Guest.md
+  - Events/The Disappearance of Tam Rowe.md
+  - Events/The Unmasking of Lucan.md
+  - Factions & Organizations/The Order of Saint Aubren.md
+  - Items & Artifacts/Boots of the Winterlands.md
+  - Items & Artifacts/Cloak of Protection.md
+  - Items & Artifacts/Frost Brand.md
+  - Items & Artifacts/Hat of Disguise.md
+  - Items & Artifacts/Pewter Lamp Badge.md
+  - Items & Artifacts/Silver Votive Lamp.md
+  - Items & Artifacts/Tam's Boot.md
+  - Items & Artifacts/The Abbot's Ring.md
+  - Items & Artifacts/The Ice Shards.md
+  - Locations/Harrowford.md
+  - Locations/Saint Aubren's Rest.md
+  - Locations/The Chapel.md
+  - Locations/The Chapter House.md
+  - Locations/The Cloister.md
+  - Locations/The Dragon's Cavern.md
+  - Locations/The Guest Wing.md
+  - Locations/The Ice Cave.md
+  - Locations/The Ice Crypt.md
+  - Locations/The Pass.md
+  - _Campaign/Campaign Overview.md
+  - _Campaign/Timeline.md
+  - _World/calendar.md
+  - _World/geography.md
+  - _World/health.md
+  - _World/religion.md
+  - _World/world-index.md
+excluded:
+  - path: Adventures/Snowbound/Snowbound.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: Chapters/Chapter 1/Planning/Arc_Shape.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: Chapters/Chapter 1/Planning/Investigation_Design.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: Chapters/Chapter 1/Planning/Severins_Clock.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: Chapters/Chapter 1/Scenes/Lucan's Call.md
+    reason: prep
+  - path: Chapters/Chapter 1/Scenes/The Descent.md
+    reason: prep
+  - path: Chapters/Chapter 1/Scenes/The Office for Brother Matthias.md
+    reason: prep
+  - path: Chapters/Chapter 1/Scenes/The Second Night.md
+    reason: prep
+  - path: Chapters/Chapter 1/Scenes/What Sleeps Below.md
+    reason: prep
+  - path: Chapters/Chapter 1/Sessions/Session 01/Session 01 - The Climb - Export.md
+    reason: GM's play record
+  - path: Chapters/Chapter 1/Sessions/Session 01/Session 01 - The Climb - Plan.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: Chapters/Chapter 1/Sessions/Session 01/Session 01 - The Climb - Play Notes.md
+    reason: GM's play record
+  - path: Chapters/Chapter 1/Sessions/Session 02/Session 02 - The Office for Brother Matthias - Export.md
+    reason: raw play record
+  - path: Chapters/Chapter 1/Sessions/Session 02/Session 02 - The Office for Brother Matthias - Plan.md
+    reason: prep
+  - path: Chapters/Chapter 1/Sessions/Session 02/Session 02 - The Office for Brother Matthias - Play Notes.md
+    reason: raw play record
+  - path: Chapters/Chapter 1/Sessions/Session 03/Session 03 - Peace, Child - Export.md
+    reason: raw play record
+  - path: Chapters/Chapter 1/Sessions/Session 03/Session 03 - Peace, Child - Plan.md
+    reason: prep
+  - path: Chapters/Chapter 1/Sessions/Session 03/Session 03 - Peace, Child - Play Notes.md
+    reason: raw play record
+  - path: Chapters/Chapter 1/Sessions/Session 04/Session 04 - Long Night Early - Export.md
+    reason: raw play record
+  - path: Chapters/Chapter 1/Sessions/Session 04/Session 04 - Long Night Early - Plan.md
+    reason: prep
+  - path: Chapters/Chapter 1/Sessions/Session 04/Session 04 - Long Night Early - Play Notes.md
+    reason: raw play record
+  - path: Documents/Map of Saint Aubren's Rest (GM).md
+    reason: "GM map: shows the secret levels"
+  - path: Documents/Map of the Guest Wing (GM).md
+    reason: GM map
+  - path: Documents/Map of the Pass (GM).md
+    reason: GM map
+  - path: Locations/The Glacier Stair.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _Campaign/Image_Guidance.md
+    reason: picture style note, never published
+  - path: _World/_flags.md
+    reason: internal flag list
+  - path: _midwife/discoveries.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/index.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/seeds/premises/the-bridge-town.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/seeds/premises/the-last-week-of-the-fair.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/arc.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/chapter-shape.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/index.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/investigation-shape.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/locations/the-monastery.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/npcs/monks.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/npcs/pilgrims.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/npcs/the-abbot.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/npcs/the-client.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/structure-draft.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+  - path: _midwife/snowbound/timeline.md
+    reason: "GM-only: prep, secrets or the midwife workspace"
+needs_decision: []
